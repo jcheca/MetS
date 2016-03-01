@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "",
       "projectGuid": "6bc1ac04-9b90-450d-a87b-3a29ce3752d2",
-      "lastModifiedDate": 1456850268232,
+      "lastModifiedDate": 1456863136404,
       "creationDate": 1456847838241
     },
     "sourceDirectory": "",
@@ -200,7 +200,7 @@
         "runtime_": "W3C",
         "name_": "WebApp",
         "preferences_": {},
-        "isActive_": true,
+        "isActive_": false,
         "appName_": "NIMMetS",
         "appID_": "not.yet.specified",
         "appAccess_": {
@@ -244,7 +244,7 @@
         "runtime_": "W3C on Chrome OS",
         "name_": "Chrome",
         "preferences_": {},
-        "isActive_": true,
+        "isActive_": false,
         "appName_": "NIMMetS",
         "appID_": "not.yet.specified",
         "appAccess_": {

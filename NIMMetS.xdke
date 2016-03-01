@@ -4,6 +4,10 @@
     "initialAutoPluginCount": 0,
     "currentBuildConfiguration": "WebApp",
     "projectFiles": {},
-    "projectDirectories": {}
+    "projectDirectories": {},
+    "currentService": {
+      "endPoint": "Live-Update",
+      "service": "appmobi"
+    }
   }
 }
