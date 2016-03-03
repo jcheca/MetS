@@ -8,4 +8,5 @@
 <content src="index.html"/>
 <access origin="*"/>
 <!--creationInfo:{"src":"","projectTypeName":"com.intel.xdk.projecttype.webapp"}-->
-<preference name="debuggable" value="false"/></widget>
+<preference name="debuggable" value="false"/>
+<preference name="SplashScreenDelay" value="2000"/></widget>

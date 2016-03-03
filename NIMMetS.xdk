@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "",
       "projectGuid": "6bc1ac04-9b90-450d-a87b-3a29ce3752d2",
-      "lastModifiedDate": 1456863136404,
+      "lastModifiedDate": 1457036267762,
       "creationDate": 1456847838241
     },
     "sourceDirectory": "",
@@ -53,28 +53,28 @@
         },
         "icons_": [
           {
-            "relPath": "images/android-icon-36x36.png",
-            "density": "ldpi",
-            "height": 36,
-            "width": 36
-          },
-          {
-            "relPath": "images/android-icon-48x48.png",
+            "relPath": "images/icon_mdpi48x48.png",
             "density": "mdpi",
             "height": 48,
             "width": 48
           },
           {
-            "relPath": "images/android-icon-72x72.png",
+            "relPath": "images/icon_hdpi72x72.png",
             "density": "hdpi",
             "height": 72,
             "width": 72
           },
           {
-            "relPath": "images/android-icon-96x96.png",
+            "relPath": "images/icon_xhdpi96x96.png",
             "density": "xhdpi",
             "height": 96,
             "width": 96
+          },
+          {
+            "relPath": "images/icon_mdpi36x36.png",
+            "density": "ldpi",
+            "height": 36,
+            "width": 36
           }
         ],
         "splashes_": [
